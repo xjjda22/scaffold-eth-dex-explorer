@@ -25,7 +25,7 @@ yarn install
 yarn start
 ```
 # Preview 
-![preview](https://user-images.githubusercontent.com/35558569/124433520-6cd25c80-dda5-11eb-8953-fdb945659688.png)
+![preview](https://user-images.githubusercontent.com/35558569/124434226-31845d80-dda6-11eb-8cd6-41d45b6fc50e.png)
 
 If everything goes smoothly you should now have a local network running, with the starter contracts deployed and the frontend React app running on https://localhost:3000.
 

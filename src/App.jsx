@@ -206,7 +206,7 @@ function App(props) {
                 <a
                   target="_blank"
                   style={{ color: "#000" }}
-                  href="https://github.com/harryranakl/scaffold-eth-dex-explorer"
+                  href="https://github.com/xjjda22/scaffold-eth-dex-explorer"
                 >
                   🍴 Repo: Fork me!
                 </a>

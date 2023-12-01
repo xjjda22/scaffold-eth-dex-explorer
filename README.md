@@ -19,7 +19,7 @@ Scaffold-eth is not a product itself but more of a combination or stack of other
 ⚠️ First, make sure you have: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 
 ```bash
-git clone https://github.com/harryranakl/scaffold-eth-dex-explorer
+git clone https://github.com/xjjda22/scaffold-eth-dex-explorer
 cd scaffold-eth-dex-explorer
 yarn install
 yarn start
